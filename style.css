@@ -1,0 +1,115 @@
+body
+{
+    background-size: cover;
+    background-position: center;
+}
+
+.heading
+{
+font-size: 23px;
+width: 100%;
+margin: 0px;
+}
+
+#status
+{
+font-size: 18px;
+}
+
+canvas
+{
+    box-shadow: 10px 10px 10px grey;
+    border-radius: 10px;
+}
+
+#button
+{
+font-size: 18px;
+width: 80%;
+}
+
+#btn
+{
+    height: 40px;
+    width: 50%;
+    border-radius: 15px;
+}body
+{
+    background-size: cover;
+    background-position: center;
+}
+
+.heading
+{
+font-size: 23px;
+width: 100%;
+margin: 0px;
+}
+
+#status
+{
+font-size: 18px;
+}
+
+canvas
+{
+    box-shadow: 10px 10px 10px grey;
+    border-radius: 10px;
+}
+
+#button
+{
+font-size: 18px;
+width: 80%;
+}
+
+#btn
+{
+    height: 40px;
+    width: 50%;
+    border-radius: 15px;
+}
+body {
+    font-family: SF UI Display;
+    font-weight: 500;
+}
+p {
+    font-family: SF UI Display;
+    font-weight: 500;
+}
+span {
+    font-family: SF UI Display;
+    font-weight: 500;
+}
+h1 {
+    font-family: SF UI Display;
+    font-weight: 500;
+}
+h2 {
+    font-family: SF UI Display;
+    font-weight: 500;
+}
+h3 {
+    font-family: SF UI Display;
+    font-weight: 500;
+}
+h4 {
+    font-family: SF UI Display;
+    font-weight: 500;
+}
+h5 {
+    font-family: SF UI Display;
+    font-weight: 500;
+}
+h6 {
+    font-family: SF UI Display;
+    font-weight: 500;
+}
+input {
+    font-family: SF UI Display;
+    font-weight: 500;
+}
+div {
+    font-family: SF UI Display;
+    font-weight: 500;
+}
